@@ -11,8 +11,10 @@ See the [Hackster.io](https://www.hackster.io/porrey/mioduino-392cd2 "Hackster.i
 ##Branches
 There are two branches in this repository:
 
+* **Master** -> Contains documentation and the package file. The URL below can be added to the **Boards Manager** in the **Preferences** section in the Arduino IDE. 
+
 * **Hardware** -> Contains all of the files needed to add the board to the Arduino IDE.
 
-* **IDE** -> Contains the package file. The URL below can be added to the **Boards Manager** in the **Preferences** section in the Arduino IDE. 
 
-> https://raw.githubusercontent.com/porrey/mioduino/ide/package_porrey_mioduino_index.json
+
+> https://raw.githubusercontent.com/porrey/Mioduino/master/package_porrey_mioduino_index.json
