@@ -12,15 +12,15 @@
         {
           "name": "Mioduino",
           "architecture": "avr",
-          "version": "2.0.2",
+          "version": "2.0.3",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/porrey/Mioduino"
           },
-          "url": "https://github.com/porrey/Mioduino/archive/v2.0.2.zip",
-          "archiveFileName": "Mioduino-2.0.2.zip",
-          "checksum": "MD5:e1bb698daa34f699a27f8f08f2d06e7c",
-          "size": "80349",
+          "url": "https://github.com/porrey/Mioduino/archive/v2.0.3.zip",
+          "archiveFileName": "Mioduino-2.0.3.zip",
+          "checksum": "MD5:b6357eaaaca27fb0bdc71de418d1791e",
+          "size": "82299",
           "boards": [
             {"name": "Mioduino"}
           ],
