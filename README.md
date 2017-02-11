@@ -1,2 +1,3 @@
 # Mioduino
-The Mioduino is an Arduino compatible on a breadboard that you build yourself. It is intended as a basic, hands-on, introduction to the Arduino platform.
+
+This branch contains the files necessary to use the Mioduino in the Arduino IDE.
