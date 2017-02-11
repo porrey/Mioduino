@@ -29,7 +29,7 @@
 #include "Adafruit_NeoPixel.h"
 
 #define NUM_PIXELS 1
-#define NEO_PIXEL_PIN 6
+#define NEO_PIXEL_PIN 3
 
 // ***
 // *** Initial the NeoPixel instance.
