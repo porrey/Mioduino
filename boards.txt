@@ -5,7 +5,7 @@ mioduino.upload.protocol=arduino
 mioduino.upload.maximum_size=30720
 mioduino.upload.maximum_data_size=2048
 mioduino.upload.maximum_eeprom_size=1024
-mioduino.upload.speed=19200
+mioduino.upload.speed=57600
 
 mioduino.bootloader.tool=arduino:avrdude
 mioduino.bootloader.low_fuses=0xFF
