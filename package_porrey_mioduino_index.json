@@ -36,6 +36,34 @@
               "version": "6.0.1-arduino5"
             }
           ]
+        },
+	{
+          "name": "Mioduino",
+          "architecture": "avr",
+          "version": "2.0.4",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/porrey/Mioduino"
+          },
+          "url": "https://github.com/porrey/Mioduino/archive/v2.0.4.zip",
+          "archiveFileName": "Mioduino-2.0.4.zip",
+          "checksum": "MD5:d36dfa7f270c2d670f9ae22ef645c682",
+          "size": "85611",
+          "boards": [
+            {"name": "Mioduino"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
         }
       ],
 	  "tools": []
