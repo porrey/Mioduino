@@ -54,6 +54,7 @@ void setup()
   // *** Initialize all pixels to 'off'.
   // ***
   _rgb.begin();
+  _rgb.setBrightness(100);
   _rgb.show();
 
   // ***
