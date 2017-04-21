@@ -45,10 +45,10 @@
           "help": {
             "online": "https://github.com/porrey/Mioduino"
           },
-          "url": "https://github.com/porrey/Mioduino/archive/v2.0.4.zip",
-          "archiveFileName": "Mioduino-2.0.4.zip",
-          "checksum": "MD5:d36dfa7f270c2d670f9ae22ef645c682",
-          "size": "85611",
+          "url": "https://github.com/porrey/Mioduino/releases/download/v2.0.4/Mioduino-Hardware-2.0.4.zip",
+          "archiveFileName": "Mioduino-Hardware-2.0.4.zip",
+          "checksum": "MD5:53e0f7ad544d5b3b50d16f3b70338212",
+          "size": "85894",
           "boards": [
             {"name": "Mioduino"}
           ],
