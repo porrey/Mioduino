@@ -1,3 +1,7 @@
+# OSx Files
+*.DS_Store
+Thumbs.db
+
 # Object files
 *.o
 *.ko
