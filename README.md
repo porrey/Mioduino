@@ -18,3 +18,6 @@ There are two branches in this repository:
 
 
 > https://raw.githubusercontent.com/porrey/Mioduino/master/package_porrey_mioduino_index.json
+
+##Credits:
+https://www.arduino.cc/en/Main/Standalone
